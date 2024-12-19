@@ -2,7 +2,7 @@
 
 ## Opgaves
 - [ ] Opgave 1
-  - [ ] a
+  - [x] a KERSTDRUKTE
   - [ ] b
 - [ ] Opgave 2
 - [ ] Opgave 3
@@ -10,15 +10,15 @@
   - [ ] b
   - [ ] c
 - [ ] Opgave 4
-  - [ ] a
+  - [x] a DOdo aREnd sMIent FAzant paraSOLvogel adeLAar SIerduif doDO
   - [ ] b
   - [ ] c
   - [ ] d
 - [ ] Opgave 5
-- [ ] Opgave 6
+- [x] Opgave 6 Morse -> Charlotte -> Marcel, Walter, en Charlotte ik vertrek naar Spanje
 - [ ] Opgave 7
-  - [ ] a
-  - [ ] b
+  - [x] a JAN MODAAL
+  - [x] b ZOETERMEER
   - [ ] c
   - [ ] d
 - [ ] Opgave 8
@@ -29,7 +29,7 @@
 - [ ] Opgave 11
 - [ ] Opgave 12
 - [ ] Opgave 13
-  - [ ] a
+  - [x] a AIVD AVID DAVI DIVA VIDA
   - [ ] b
 - [ ] Opgave 14
   - [ ] a
